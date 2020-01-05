@@ -1,0 +1,21 @@
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+Card UID: 27 60 E9 A9
+Name: Jussi Virtanen
+Worker ID: 0A 25 4D 6
+Logged out
+Card UID: 97 4B E9 A9
+Name: Tero Dataukko
+Worker ID: 2A 37 8K 5
+Logged out
+Card UID: C2 0B EA A9
+Name: Mika Komponentti
+Worker ID: AB 25 G7 6
+Logged out
+Card UID: B0 C8 EA A9
+Name: Eero Teranen
+Worker ID: 2A 49 8K 5
+Logged out
+

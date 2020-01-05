@@ -1,0 +1,272 @@
+Thursday 29.11.18 14:24
+Card UID: 27 60 E9 A9
+Name: Jussi Virtanen
+Worker ID: 0A 25 4D 6
+Empty Line : 2
+LOGGED IN...
+Thursday 29.11.18 14:24
+Card UID: 27 60 E9 A9
+Name: Jussi Virtanen
+Worker ID: 0A 25 4D 6
+Empty Line : 2
+LOGGED IN...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+LOGGED OUT...
+Monday 03.12.18 10:12
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Empty Line : 1
+LOGGED IN...
+Monday 03.12.18 10:57
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Empty Line : 1
+LOGGED IN...
+Monday 03.12.18 10:57
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Empty Line : 1
+LOGGED OUT...
+Monday 03.12.18 11:26
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:26
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:28
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:28
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:29
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:29
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:36
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:37
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:37
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:38
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:38
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:39
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:40
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:40
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:41
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:41
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+Monday 03.12.18 11:42
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:44
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+LOGGED OUT...
+Monday 03.12.18 11:44
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:45
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:46
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:46
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:46
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:46
+Card UID: 27 60 E9 A9
+Name: Jussi Virtanen
+Worker ID: 0A 25 4D 6
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:47
+Card UID: 97 4B E9 A9
+Name: Tero Dataukko
+Worker ID: 2A 37 8K 5
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:47
+Card UID: C2 0B EA A9
+Name: Mika Komponentti
+Worker ID: AB 25 G7 6
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:47
+Card UID: B0 C8 EA A9
+Name: Eero Teranen
+Worker ID: 2A 49 8K 5
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:47
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED IN...
+Monday 03.12.18 11:47
+Card UID: 97 4B E9 A9
+Name: Tero Dataukko
+Worker ID: 2A 37 8K 5
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:47
+Card UID: 27 60 E9 A9
+Name: Jussi Virtanen
+Worker ID: 0A 25 4D 6
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:47
+Card UID: C2 0B EA A9
+Name: Mika Komponentti
+Worker ID: AB 25 G7 6
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:48
+Card UID: B0 C8 EA A9
+Name: Eero Teranen
+Worker ID: 2A 49 8K 5
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:48
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+Logged out
+LOGGED OUT...
+Monday 03.12.18 11:49
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
+Monday 03.12.18 11:51
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
+Monday 03.12.18 11:52
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
+Monday 03.12.18 11:53
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
+Monday 03.12.18 11:54
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
+Monday 03.12.18 11:55
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
+Monday 03.12.18 11:58
+Card UID: 02 01 AB 1A
+Name: Mikko Testilä
+Worker ID: 1A 38 6G 2
+LOGGED IN...
